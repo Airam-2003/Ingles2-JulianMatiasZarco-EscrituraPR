@@ -14,7 +14,7 @@ Other main problems included:
 - Missing localization support, with all error messages hard-coded in English.
 
 
-## Highlighting hanges and impact
+## Highlighting changes and impact
 
 To address these issues, the following modifications were implemented:
 
@@ -24,7 +24,11 @@ To address these issues, the following modifications were implemented:
 - Standardized all CSS units to rem for better responsiveness across various screen sizes.
 - Added Spanish translations for error messages using a simple localization module to enhance accessibility.
 
-These changes improve the usability, stability, and inclusivity of the app. Users now receive clear, localized feedback and can rely on accurate weather information even under poor network conditions.
+These changes aim to improve the usability, stability, and inclusivity of the app. Users now receive clear, localized feedback and can rely on accurate weather information even under poor network conditions.
+
+
+
+## Feedback
 
 Please review the updated WeatherDisplay.js and fetchWeatherData() implementations carefully.
 
