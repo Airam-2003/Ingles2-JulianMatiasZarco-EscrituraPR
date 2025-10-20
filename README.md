@@ -1,3 +1,3 @@
 # English 2 - Writing project: Pull Request
-
-* Student: Julián Matías Zarco
+**By: Julián Matías Zarco**
+*Note: this repository was created for educational purposes.*
