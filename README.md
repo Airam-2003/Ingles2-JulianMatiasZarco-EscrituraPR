@@ -7,4 +7,6 @@ In this repository, you will find a Pull Request, as well as the rhetorical move
 
 - Table with the rhetorical moves used:
 - List of abbreviations used
-- - TYSM:
+  - **TY:** *Thank you*
+  - **LMK:** *Let me know* - Used when you would like others to notify you of something in specific.
+  - 
